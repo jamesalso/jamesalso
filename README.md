@@ -11,6 +11,9 @@ Software Engineer
 * 🤝  I'm open to collaborating on projects that bridge technology and user experience
 * ⚡  I'm good at most sports
 
+<a href="https://www.github.com/jamesalso" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jamesalso?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+
 ### Skills
 
 
@@ -27,8 +30,8 @@ Software Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/jamesalso"><img src="https://github-readme-stats.vercel.app/api?username=jamesalso&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jamesalso's GitHub stats" /></a>
+<a href="http://www.github.com/jamesalso"><img src="https://github-readme-stats.vercel.app/api?username=jamesalso&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="jamesalso's GitHub stats" /></a>
 
-<a href="http://www.github.com/jamesalso"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesalso&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/jamesalso"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesalso&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/jamesalso" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesalso&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/jamesalso" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesalso&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
